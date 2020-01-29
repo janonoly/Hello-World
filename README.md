@@ -3,4 +3,8 @@
 GIT教程
 =======
 sddfasjfsadfasdf
+<<<<<<< HEAD
+>>>>>>> feature-A
+=======
+sdjfasdfaskdftiantiantiann
 >>>>>>> feature-A
